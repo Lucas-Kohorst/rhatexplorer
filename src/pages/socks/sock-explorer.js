@@ -20,7 +20,7 @@ export default function SockExplorer() {
         <main className={"socks"}>
             <dl className={"tooltip"}>
                 <div><dt><img src={socks} alt="socks badge"/></dt> <dd className={"name"}></dd></div>
-                <div><dt>$SOCKS</dt> <dd className={"value"}></dd></div>
+                <div><dt>$RHAT</dt> <dd className={"value"}></dd></div>
                 <div><dt>First </dt> <dd className={"first"}></dd></div>
                 <div><dt>Latest</dt> <dd className={"latest"}></dd></div>
             </dl>
