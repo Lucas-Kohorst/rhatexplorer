@@ -1,0 +1,19 @@
+dl {
+  font-size: _font(size-regular);
+  text-align: left;
+
+  dt {
+    text-align: left;
+    font-family: _font(family-bold);
+    color: _color(body-text);
+    display: inline-block;
+    width: 3rem;
+    margin-right: 1rem;
+  }
+  dd {
+    font-family: _font(family-light);
+    color: _color(body-text);
+    display: inline-block;
+    margin: 0;
+  }
+}
